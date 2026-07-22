@@ -1,415 +1,144 @@
+Privacy Policy for FEMIA
+Femiale Health Tracking App — Last updated: July 21, 2026
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Privacy Policy - FEMIA</title>
-<style>
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
+1. Introduction
+FEMIA ("we," "our," or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use the FEMIA mobile application (the "App").
 
-body {
-    font-family: 'Gill Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    background: #fff;
-    color: #1a1a1a;
-    line-height: 1.6;
-    padding: 5vw;
-    max-width: 900px;
-    margin: 0 auto;
-}
+This App is intended for adults only (18 years of age or older). It is designed for adult women who are trying to conceive, are pregnant, or are preparing for childbirth. The App is not directed at anyone under the age of 18, and we do not knowingly collect personal data from children or minors.
 
-h1 {
-    font-size: 7vw;
-    color: #F09277;
-    margin-bottom: 2vw;
-    text-align: center;
-}
+This App is intended ONLY to support female conception and fertility health. It is NOT intended for contraceptive purposes, family planning decisions about preventing pregnancy, or use as a birth control method.
 
-h2 {
-    font-size: 5vw;
-    color: #1a1a1a;
-    margin-top: 6vw;
-    margin-bottom: 2vw;
-    font-weight: 600;
-}
+2. Information About FEMIA
+FEMIA is designed as a personal health tracking tool with the general purpose of supporting women in their journey toward conception, encouraging pregnancy, and preparing for childbirth. The App helps you better understand your menstrual cycle, fertility patterns, and overall wellbeing as you work toward motherhood and building a happy, loving family.
 
-h3 {
-    font-size: 4.5vw;
-    color: #1a1a1a;
-    margin-top: 4vw;
-    margin-bottom: 2vw;
-    font-weight: 600;
-}
+The App also includes:
 
-p {
-    font-size: 4vw;
-    color: #444;
-    margin-bottom: 3vw;
-    text-align: justify;
-}
+Recipes: Fertility-supporting recipes and nutritional suggestions
+Articles: Educational content about female health and fertility
+Products: Curated product recommendations and links to third-party products, including through Amazon affiliate links
+Orthodox Saints' Feasts and Prayers: Spiritual content reflecting traditional Orthodox Christian practices for intercession regarding fertility, safe childbirth, and family life
+Premium Club Features: Optional subscription for additional recipes and articles
+3. Data We Collect
+3.1 Health Data (Stored Locally and Encrypted)
+The App collects and stores the following health-related data exclusively on your device in encrypted form:
 
-ul {
-    margin-left: 5vw;
-    margin-bottom: 3vw;
-}
+Menstrual cycle dates and patterns
+Fertility tracking data (ovulation, fertile window)
+Pregnancy-related information
+Daily mood, symptoms, and notes
+Biometric measurements (weight, temperature, etc.) if you choose to enter them
+This data is NEVER transmitted to any server. It is always stored in encrypted form on your device.
 
-li {
-    font-size: 4vw;
-    color: #444;
-    margin-bottom: 1.5vw;
-    text-align: justify;
-}
+3.2 Authentication Data
+6-digit PIN (hashed and stored in Android Keystore, which is local to your phone)
+3.3 Payment Data
+Subscription status (verified via Google Play Billing)
+Receipt tokens (used only to verify subscriptions on your device)
+4. How We Use Your Data
+Your data is used only on your device for the following purposes:
 
-strong {
-    color: #1a1a1a;
-    font-weight: 600;
-}
+To provide menstrual cycle tracking and fertility predictions
+To display content (recipes, articles, products)
+To manage your premium subscription status
+To authenticate you (PIN)
+To enable data export/import functionality
+We do not collect, transmit, or store your health data on any server.
 
-.updated {
-    font-size: 3.5vw;
-    color: #888;
-    text-align: center;
-    margin-bottom: 6vw;
-    font-style: italic;
-}
+5. Data Storage and Security
+All health data is always stored in encrypted form using SQLCipher (AES-256) and stored locally on your device
+The encrypted database cannot be read without your PIN
+Your PIN is hashed and stored in Android Keystore, which is local to your phone (hardware-backed security)
+The encryption keys never leave your device
+Data exports are encrypted as password-protected ZIP files
+Subscription verification uses Google Play Billing's secure API
+At no point is your health data ever stored in plain text or transmitted over the internet.
 
-.intro-note {
-    background: #fff4ee;
-    border-left: 4px solid #F09277;
-    padding: 3vw;
-    margin: 4vw 0;
-    font-size: 4vw;
-    color: #1a1a1a;
-}
+6. Third-Party Services
+The App uses the following third-party service:
 
-.section {
-    margin-bottom: 2vw;
-}
+6.1 Google Play Billing
+Used to process subscriptions and one-time purchases
+Google collects payment information according to its privacy policy
+We do not see or store your payment details
+Google Play Store may collect general app installation and update statistics; we do not collect app visit statistics ourselves
+6.2 Content Updates
+Recipes, articles, and product recommendations are synced from private GitHub repositories (recipes) and public GitHub repositories (articles and products)
+No personal data is sent during content sync
+Only standard HTTPS requests are made to fetch content files from GitHub
+The GitHub repository access tokens are stored encrypted in the app's local data store
+6.3 Amazon Affiliate Links
+The App may include links to Amazon products as part of product recommendations
+These are affiliate links; we may receive a commission at no additional cost to you
+Amazon may collect data according to its own privacy policy when you click these links
+7. Your Rights and Choices
+You have the right to:
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 4vw 0;
-    font-size: 3.8vw;
-}
+Access your data (via the App's export feature)
+Delete all your data (via "Delete All Data" in settings)
+Export your data (as an encrypted ZIP file)
+Uninstall the App at any time, which removes all local data
+Contact us with privacy questions or concerns
+8. Children's Privacy
+The App is not intended for anyone under 18 years of age. We do not knowingly collect data from children or minors. The App is designed for adult women (18+) seeking to support conception, pregnancy, or female fertility health. The App is not intended for contraceptive purposes or as a family planning tool for avoiding pregnancy. If you believe a child or minor has provided us with personal data, please contact us so we can delete the information.
 
-th, td {
-    padding: 3vw 2vw;
-    text-align: left;
-    border-bottom: 1px solid #e0e0e0;
-}
+9. International Users
+If you are using the App from outside the European Union, your data is processed locally on your device. The App does not transmit your health data internationally.
 
-th {
-    background: #f8f8f8;
-    color: #1a1a1a;
-    font-weight: 600;
-}
+10. Important Disclaimers
+10.1 Not a Medical Device or Contraceptive
+FEMIA is not a medical device, diagnostic tool, or contraceptive method. It does not provide medical advice, diagnosis, or treatment. The fertility predictions and cycle estimates provided by the App are based on general patterns and may not be accurate for your individual body. Do not rely on FEMIA for birth control or to prevent pregnancy.
 
-td {
-    color: #444;
-}
+This App is intended ONLY to support female conception and fertility health. It is NOT a family planning or contraceptive tool and should not be used for the purpose of avoiding pregnancy.
 
-.contact-info {
-    background: #f8f8f8;
-    padding: 4vw;
-    border-radius: 8px;
-    margin: 4vw 0;
-}
+10.2 Intended to Support Conception
+This App is specifically created to support women who are trying to conceive and want to welcome pregnancy. It is designed to help you identify your fertile window and understand your body's patterns to increase your chances of becoming pregnant. If you wish to avoid pregnancy, this tool is not appropriate for you.
 
-.contact-info a {
-    color: #F09277;
-    text-decoration: none;
-    word-break: break-all;
-}
+10.3 No Guarantee of Conception or Pregnancy
+FEMIA cannot and does not guarantee that you will conceive or become pregnant. Fertility and conception are influenced by many complex factors beyond cycle tracking, including overall health, age, underlying medical conditions, and factors affecting both partners. Using FEMIA does not ensure pregnancy will occur. If you have been trying to conceive without success, please consult a healthcare professional or fertility specialist.
 
-.contact-info a:hover {
-    text-decoration: underline;
-}
+10.4 Consult Healthcare Professionals
+Always consult with a qualified healthcare professional for any medical concerns, questions about your fertility, family planning decisions, or health conditions. FEMIA is not a substitute for professional medical advice, examination, diagnosis, or treatment.
 
-hr {
-    border: none;
-    border-top: 1px solid #e0e0e0;
-    margin: 6vw 0;
-}
+10.5 No Guarantee of Accuracy
+While FEMIA aims to help you track and understand your menstrual cycle, every woman's body is unique. Cycle lengths, ovulation timing, and fertility windows can vary significantly. The App's predictions and estimates should be used as general guidance only and may not reflect your individual patterns. If you have irregular cycles, known fertility issues, or any health conditions that may affect your menstrual cycle, please work closely with a healthcare professional in addition to using this tracking tool.
 
-@media (min-width: 768px) {
-    body {
-        padding: 40px;
-    }
-    
-    h1 {
-        font-size: 32px;
-        margin-bottom: 8px;
-    }
-    
-    h2 {
-        font-size: 24px;
-        margin-top: 30px;
-        margin-bottom: 12px;
-    }
-    
-    h3 {
-        font-size: 18px;
-        margin-top: 20px;
-        margin-bottom: 8px;
-    }
-    
-    p {
-        font-size: 16px;
-        margin-bottom: 12px;
-    }
-    
-    ul {
-        margin-left: 24px;
-        margin-bottom: 12px;
-    }
-    
-    li {
-        font-size: 16px;
-        margin-bottom: 6px;
-    }
-    
-    .updated {
-        font-size: 14px;
-        margin-bottom: 30px;
-    }
-    
-    .intro-note {
-        padding: 16px;
-        margin: 16px 0;
-        font-size: 16px;
-    }
-    
-    table {
-        font-size: 14px;
-    }
-    
-    th, td {
-        padding: 12px 10px;
-    }
-    
-    .contact-info {
-        padding: 20px;
-        margin: 16px 0;
-    }
-}
-</style>
-</head>
-<body>
+10.6 Recipes, Nutrition, and Dietary Content
+FEMIA provides fertility-supporting recipes and nutritional suggestions for educational and informational purposes only. These recipes are not intended to diagnose, treat, cure, or prevent any disease, and are not a substitute for personalized medical or dietary advice from a qualified healthcare professional or registered dietitian. Nutritional needs vary widely between individuals, and dietary choices may interact with medications, medical conditions, fertility treatments, or pregnancy. By using the recipes or nutritional guidance in FEMIA, you acknowledge that you are doing so voluntarily and assume full responsibility for your health decisions. The creator of FEMIA is not responsible for any adverse reactions, side effects, interactions, or outcomes related to the use of the recipes or dietary suggestions.
 
-<h1>Privacy Policy for FEMIA</h1>
-<p class="updated">Femiale Health Tracking App &mdash; Last updated: July 21, 2026</p>
+10.7 Articles and Educational Content
+Articles and written content in FEMIA are provided for educational and informational purposes only and do not constitute medical advice, diagnosis, or treatment. They reflect general knowledge and may not be applicable or accurate for your individual situation. Always consult with a qualified healthcare professional before making any health-related decisions based on articles or other content in FEMIA. The creator of FEMIA is not responsible for any errors, outdated information, or outcomes resulting from the use of articles or educational content within the App.
 
-<h2>1. Introduction</h2>
-<p>FEMIA ("we," "our," or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use the FEMIA mobile application (the "App").</p>
+10.8 Products and Affiliate Recommendations
+FEMIA may include curated product recommendations and links to third-party products, including through Amazon affiliate links. These products are suggested based on perceived educational value and alignment with fertility-focused wellness, but they are not medically endorsed or guaranteed to support conception or pregnancy. Statements regarding supplements, vitamins, minerals, herbs, or other nutritional products have not been evaluated by the Food and Drug Administration unless explicitly stated. Dietary supplements are not intended to diagnose, treat, cure, or prevent any disease. Some products may interact with medications, medical conditions, pregnancy, or fertility treatments. Some links may be affiliate links, meaning the creator of FEMIA may receive a commission at no additional cost to you. Recommendations are made in good faith, but outcomes vary based on individual health history, compliance, underlying conditions, environmental factors, and many other variables. No specific results are guaranteed. The creator of FEMIA is not responsible for the quality, safety, or outcomes of any third-party products.
 
-<div class="intro-note">
-    <p><strong>This App is intended for adults only (18 years of age or older).</strong> It is designed for adult women who are trying to conceive, are pregnant, or are preparing for childbirth. The App is not directed at anyone under the age of 18, and we do not knowingly collect personal data from children or minors.</p>
-    <p><strong>This App is intended ONLY to support female conception and fertility health. It is NOT intended for contraceptive purposes, family planning decisions about preventing pregnancy, or use as a birth control method.</strong></p>
-</div>
+10.9 Orthodox Saints' Feasts and Prayers
+FEMIA includes the feast days of certain Orthodox Christian saints who have traditionally been prayed to for intercession regarding fertility, safe childbirth, and family life. The inclusion of these saints reflects a spiritual tradition and practice, not a medical or scientific claim.
 
-<h2>2. Information About FEMIA</h2>
-<p>FEMIA is designed as a personal health tracking tool with the general purpose of supporting women in their journey toward conception, encouraging pregnancy, and preparing for childbirth. The App helps you better understand your menstrual cycle, fertility patterns, and overall wellbeing as you work toward motherhood and building a happy, loving family.</p>
+10.10 Individual Responsibility
+By using FEMIA, you acknowledge that you are using this tool at your own discretion and risk. The creator of FEMIA is not liable for any decisions made based on the information provided by the App, including but not limited to pregnancy outcomes, health decisions, product purchases, or any other consequences resulting from App use.
 
-<p>The App also includes:</p>
-<ul>
-    <li><strong>Recipes:</strong> Fertility-supporting recipes and nutritional suggestions</li>
-    <li><strong>Articles:</strong> Educational content about female health and fertility</li>
-    <li><strong>Products:</strong> Curated product recommendations and links to third-party products, including through Amazon affiliate links</li>
-    <li><strong>Orthodox Saints' Feasts and Prayers:</strong> Spiritual content reflecting traditional Orthodox Christian practices for intercession regarding fertility, safe childbirth, and family life</li>
-    <li><strong>Premium Club Features:</strong> Optional subscription for additional recipes and articles</li>
-</ul>
+10.11 Data Security Responsibility
+Your health data is encrypted and stored locally on your device. However, you are responsible for keeping your device secure and remembering your password. If you lose your password, your data cannot be recovered. We recommend regular data exports as a backup measure.
 
-<h2>3. Data We Collect</h2>
+11. Changes to This Policy
+We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy in the App and updating the "Last updated" date.
 
-<h3>3.1 Health Data (Stored Locally and Encrypted)</h3>
-<p>The App collects and stores the following health-related data <strong>exclusively on your device in encrypted form</strong>:</p>
-<ul>
-    <li>Menstrual cycle dates and patterns</li>
-    <li>Fertility tracking data (ovulation, fertile window)</li>
-    <li>Pregnancy-related information</li>
-    <li>Daily mood, symptoms, and notes</li>
-    <li>Biometric measurements (weight, temperature, etc.) if you choose to enter them</li>
-</ul>
+12. Contact Us
+If you have questions about this privacy policy, please contact us at:
 
-<p><strong>This data is NEVER transmitted to any server. It is always stored in encrypted form on your device.</strong></p>
+Email: peter.vlahov@gmail.com
 
-<h3>3.2 Authentication Data</h3>
-<ul>
-    <li>6-digit PIN (hashed and stored in Android Keystore, which is local to your phone)</li>
-</ul>
+Website: https://fema.beauty
 
-<h3>3.3 Payment Data</h3>
-<ul>
-    <li>Subscription status (verified via Google Play Billing)</li>
-    <li>Receipt tokens (used only to verify subscriptions on your device)</li>
-</ul>
-
-<h2>4. How We Use Your Data</h2>
-<p>Your data is used <strong>only on your device</strong> for the following purposes:</p>
-<ul>
-    <li>To provide menstrual cycle tracking and fertility predictions</li>
-    <li>To display content (recipes, articles, products)</li>
-    <li>To manage your premium subscription status</li>
-    <li>To authenticate you (PIN)</li>
-    <li>To enable data export/import functionality</li>
-</ul>
-
-<p><strong>We do not collect, transmit, or store your health data on any server.</strong></p>
-
-<h2>5. Data Storage and Security</h2>
-<ul>
-    <li>All health data is <strong>always stored in encrypted form</strong> using SQLCipher (AES-256) and stored locally on your device</li>
-    <li>The encrypted database cannot be read without your PIN</li>
-    <li>Your PIN is hashed and stored in <strong>Android Keystore, which is local to your phone</strong> (hardware-backed security)</li>
-    <li>The encryption keys never leave your device</li>
-    <li>Data exports are encrypted as password-protected ZIP files</li>
-    <li>Subscription verification uses Google Play Billing's secure API</li>
-</ul>
-
-<p><strong>At no point is your health data ever stored in plain text or transmitted over the internet.</strong></p>
-
-<h2>6. Third-Party Services</h2>
-<p>The App uses the following third-party service:</p>
-
-<h3>6.1 Google Play Billing</h3>
-<ul>
-    <li>Used to process subscriptions and one-time purchases</li>
-    <li>Google collects payment information according to its privacy policy</li>
-    <li>We do not see or store your payment details</li>
-    <li>Google Play Store may collect general app installation and update statistics; we do not collect app visit statistics ourselves</li>
-</ul>
-
-<h3>6.2 Content Updates</h3>
-<ul>
-    <li>Recipes, articles, and product recommendations are synced from <strong>private GitHub repositories</strong> (recipes) and public GitHub repositories (articles and products)</li>
-    <li>No personal data is sent during content sync</li>
-    <li>Only standard HTTPS requests are made to fetch content files from GitHub</li>
-    <li>The GitHub repository access tokens are stored encrypted in the app's local data store</li>
-</ul>
-
-<h3>6.3 Amazon Affiliate Links</h3>
-<ul>
-    <li>The App may include links to Amazon products as part of product recommendations</li>
-    <li>These are affiliate links; we may receive a commission at no additional cost to you</li>
-    <li>Amazon may collect data according to its own privacy policy when you click these links</li>
-</ul>
-
-<h2>7. Your Rights and Choices</h2>
-<p>You have the right to:</p>
-<ul>
-    <li><strong>Access</strong> your data (via the App's export feature)</li>
-    <li><strong>Delete</strong> all your data (via "Delete All Data" in settings)</li>
-    <li><strong>Export</strong> your data (as an encrypted ZIP file)</li>
-    <li><strong>Uninstall</strong> the App at any time, which removes all local data</li>
-    <li><strong>Contact us</strong> with privacy questions or concerns</li>
-</ul>
-
-<h2>8. Children's Privacy</h2>
-<p>The App is <strong>not intended for anyone under 18 years of age</strong>. We do not knowingly collect data from children or minors. The App is designed for adult women (18+) seeking to support conception, pregnancy, or female fertility health. The App is not intended for contraceptive purposes or as a family planning tool for avoiding pregnancy. If you believe a child or minor has provided us with personal data, please contact us so we can delete the information.</p>
-
-<h2>9. International Users</h2>
-<p>If you are using the App from outside the European Union, your data is processed locally on your device. The App does not transmit your health data internationally.</p>
-
-<h2>10. Important Disclaimers</h2>
-
-<h3>10.1 Not a Medical Device or Contraceptive</h3>
-<p><strong>FEMIA is not a medical device, diagnostic tool, or contraceptive method.</strong> It does not provide medical advice, diagnosis, or treatment. The fertility predictions and cycle estimates provided by the App are based on general patterns and may not be accurate for your individual body. Do not rely on FEMIA for birth control or to prevent pregnancy.</p>
-<p><strong>This App is intended ONLY to support female conception and fertility health. It is NOT a family planning or contraceptive tool and should not be used for the purpose of avoiding pregnancy.</strong></p>
-
-<h3>10.2 Intended to Support Conception</h3>
-<p>This App is specifically created to support women who are trying to conceive and want to welcome pregnancy. It is designed to help you identify your fertile window and understand your body's patterns to increase your chances of becoming pregnant. If you wish to avoid pregnancy, this tool is not appropriate for you.</p>
-
-<h3>10.3 No Guarantee of Conception or Pregnancy</h3>
-<p>FEMIA cannot and does not guarantee that you will conceive or become pregnant. Fertility and conception are influenced by many complex factors beyond cycle tracking, including overall health, age, underlying medical conditions, and factors affecting both partners. Using FEMIA does not ensure pregnancy will occur. If you have been trying to conceive without success, please consult a healthcare professional or fertility specialist.</p>
-
-<h3>10.4 Consult Healthcare Professionals</h3>
-<p>Always consult with a qualified healthcare professional for any medical concerns, questions about your fertility, family planning decisions, or health conditions. FEMIA is not a substitute for professional medical advice, examination, diagnosis, or treatment.</p>
-
-<h3>10.5 No Guarantee of Accuracy</h3>
-<p>While FEMIA aims to help you track and understand your menstrual cycle, every woman's body is unique. Cycle lengths, ovulation timing, and fertility windows can vary significantly. The App's predictions and estimates should be used as general guidance only and may not reflect your individual patterns. If you have irregular cycles, known fertility issues, or any health conditions that may affect your menstrual cycle, please work closely with a healthcare professional in addition to using this tracking tool.</p>
-
-<h3>10.6 Recipes, Nutrition, and Dietary Content</h3>
-<p>FEMIA provides fertility-supporting recipes and nutritional suggestions for educational and informational purposes only. These recipes are not intended to diagnose, treat, cure, or prevent any disease, and are not a substitute for personalized medical or dietary advice from a qualified healthcare professional or registered dietitian. Nutritional needs vary widely between individuals, and dietary choices may interact with medications, medical conditions, fertility treatments, or pregnancy. By using the recipes or nutritional guidance in FEMIA, you acknowledge that you are doing so voluntarily and assume full responsibility for your health decisions. The creator of FEMIA is not responsible for any adverse reactions, side effects, interactions, or outcomes related to the use of the recipes or dietary suggestions.</p>
-
-<h3>10.7 Articles and Educational Content</h3>
-<p>Articles and written content in FEMIA are provided for educational and informational purposes only and do not constitute medical advice, diagnosis, or treatment. They reflect general knowledge and may not be applicable or accurate for your individual situation. Always consult with a qualified healthcare professional before making any health-related decisions based on articles or other content in FEMIA. The creator of FEMIA is not responsible for any errors, outdated information, or outcomes resulting from the use of articles or educational content within the App.</p>
-
-<h3>10.8 Products and Affiliate Recommendations</h3>
-<p>FEMIA may include curated product recommendations and links to third-party products, including through Amazon affiliate links. These products are suggested based on perceived educational value and alignment with fertility-focused wellness, but they are not medically endorsed or guaranteed to support conception or pregnancy. Statements regarding supplements, vitamins, minerals, herbs, or other nutritional products have not been evaluated by the Food and Drug Administration unless explicitly stated. Dietary supplements are not intended to diagnose, treat, cure, or prevent any disease. Some products may interact with medications, medical conditions, pregnancy, or fertility treatments. Some links may be affiliate links, meaning the creator of FEMIA may receive a commission at no additional cost to you. Recommendations are made in good faith, but outcomes vary based on individual health history, compliance, underlying conditions, environmental factors, and many other variables. No specific results are guaranteed. The creator of FEMIA is not responsible for the quality, safety, or outcomes of any third-party products.</p>
-
-<h3>10.9 Orthodox Saints' Feasts and Prayers</h3>
-<p>FEMIA includes the feast days of certain Orthodox Christian saints who have traditionally been prayed to for intercession regarding fertility, safe childbirth, and family life. The inclusion of these saints reflects a spiritual tradition and practice, not a medical or scientific claim.</p>
-
-<h3>10.10 Individual Responsibility</h3>
-<p>By using FEMIA, you acknowledge that you are using this tool at your own discretion and risk. The creator of FEMIA is not liable for any decisions made based on the information provided by the App, including but not limited to pregnancy outcomes, health decisions, product purchases, or any other consequences resulting from App use.</p>
-
-<h3>10.11 Data Security Responsibility</h3>
-<p>Your health data is encrypted and stored locally on your device. However, you are responsible for keeping your device secure and remembering your password. If you lose your password, your data cannot be recovered. We recommend regular data exports as a backup measure.</p>
-
-<h2>11. Changes to This Policy</h2>
-<p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy in the App and updating the "Last updated" date.</p>
-
-<h2>12. Contact Us</h2>
-<div class="contact-info">
-    <p>If you have questions about this privacy policy, please contact us at:</p>
-    <p><strong>Email:</strong> <a href="mailto:peter.vlahov@gmail.com">peter.vlahov@gmail.com</a></p>
-    <p><strong>Website:</strong> <a href="https://fema.beauty" target="_blank">https://fema.beauty</a></p>
-</div>
-
-<hr>
-
-<h2>Summary of Data Practices</h2>
-<table>
-    <tr>
-        <th>Aspect</th>
-        <th>Details</th>
-    </tr>
-    <tr>
-        <td>Health data storage</td>
-        <td>Local device only, encrypted (AES-256)</td>
-    </tr>
-    <tr>
-        <td>Data transmission</td>
-        <td>None for health data</td>
-    </tr>
-    <tr>
-        <td>Authentication</td>
-        <td>6-digit PIN stored in Android Keystore (local to phone)</td>
-    </tr>
-    <tr>
-        <td>Third-party data sharing</td>
-        <td>Google Play Billing only</td>
-    </tr>
-    <tr>
-        <td>App visit statistics</td>
-        <td>Not collected by us</td>
-    </tr>
-    <tr>
-        <td>User can delete data</td>
-        <td>Yes (via "Delete All Data" or uninstall)</td>
-    </tr>
-    <tr>
-        <td>Account required</td>
-        <td>No (local PIN only)</td>
-    </tr>
-    <tr>
-        <td>Biometric login</td>
-        <td>Not used</td>
-    </tr>
-    <tr>
-        <td>Telegram integration</td>
-        <td>Not used</td>
-    </tr>
-    <tr>
-        <td>Intended for children</td>
-        <td>No (18+ adults only)</td>
-    </tr>
-</table>
-
-</body>
-</html>
+Summary of Data Practices
+Aspect	Details
+Health data storage	Local device only, encrypted (AES-256)
+Data transmission	None for health data
+Authentication	6-digit PIN stored in Android Keystore (local to phone)
+Third-party data sharing	Google Play Billing only
+App visit statistics	Not collected by us
+User can delete data	Yes (via "Delete All Data" or uninstall)
+Account required	No (local PIN only)
+Biometric login	Not used
+Telegram integration	Not used
+Intended for children	No (18+ adults only)

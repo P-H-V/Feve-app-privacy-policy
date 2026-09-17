@@ -1,16 +1,16 @@
-# Privacy Policy for FEMIA - Female Health Tracking App
+# Privacy Policy for Feve - Female Health Tracking App
 
 **Last updated:** July 21, 2026
 
 ## 1. Introduction
 
-FEMIA ("we," "our," or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use the FEMIA mobile application (the "App").
+Feve ("we," "our," or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use the Feve mobile application (the "App").
 
 **This App is not intended for children.** It is designed for adult women who are trying to conceive, are pregnant, or are preparing for childbirth. The App is not directed at children under the age of 13, and we do not knowingly collect personal data from children.
 
-## 2. Information About FEMIA
+## 2. Information About Feve
 
-FEMIA is designed as a personal health tracking tool with the general purpose of supporting women in their journey toward conception, encouraging pregnancy, and preparing for childbirth. The App helps you better understand your menstrual cycle, fertility patterns, and overall wellbeing as you work toward motherhood and building a happy, loving family.
+Feve is designed as a personal health tracking tool with the general purpose of supporting women in their journey toward conception, encouraging pregnancy, and preparing for childbirth. The App helps you better understand your menstrual cycle, fertility patterns, and overall wellbeing as you work toward motherhood and building a happy, loving family.
 
 The App also includes:
 - **Recipes:** Fertility-supporting recipes and nutritional suggestions
@@ -101,34 +101,34 @@ If you are using the App from outside the European Union, your data is processed
 ## 10. Important Disclaimers
 
 ### 10.1 Not a Medical Device or Contraceptive
-**FEMIA is not a medical device, diagnostic tool, or contraceptive method.** It does not provide medical advice, diagnosis, or treatment. The fertility predictions and cycle estimates provided by the App are based on general patterns and may not be accurate for your individual body. Do not rely on FEMIA for birth control or to prevent pregnancy.
+**Feve is not a medical device, diagnostic tool, or contraceptive method.** It does not provide medical advice, diagnosis, or treatment. The fertility predictions and cycle estimates provided by the App are based on general patterns and may not be accurate for your individual body. Do not rely on Feve for birth control or to prevent pregnancy.
 
 ### 10.2 Intended to Support Conception
 This App is specifically created to support women who are trying to conceive and want to welcome pregnancy. It is designed to help you identify your fertile window and understand your body's patterns to increase your chances of becoming pregnant. If you wish to avoid pregnancy, this tool is not appropriate for you.
 
 ### 10.3 No Guarantee of Conception or Pregnancy
-FEMIA cannot and does not guarantee that you will conceive or become pregnant. Fertility and conception are influenced by many complex factors beyond cycle tracking, including overall health, age, underlying medical conditions, and factors affecting both partners. Using FEMIA does not ensure pregnancy will occur. If you have been trying to conceive without success, please consult a healthcare professional or fertility specialist.
+Feve cannot and does not guarantee that you will conceive or become pregnant. Fertility and conception are influenced by many complex factors beyond cycle tracking, including overall health, age, underlying medical conditions, and factors affecting both partners. Using Feve does not ensure pregnancy will occur. If you have been trying to conceive without success, please consult a healthcare professional or fertility specialist.
 
 ### 10.4 Consult Healthcare Professionals
-Always consult with a qualified healthcare professional for any medical concerns, questions about your fertility, family planning decisions, or health conditions. FEMIA is not a substitute for professional medical advice, examination, diagnosis, or treatment.
+Always consult with a qualified healthcare professional for any medical concerns, questions about your fertility, family planning decisions, or health conditions. Feve is not a substitute for professional medical advice, examination, diagnosis, or treatment.
 
 ### 10.5 No Guarantee of Accuracy
-While FEMIA aims to help you track and understand your menstrual cycle, every woman's body is unique. Cycle lengths, ovulation timing, and fertility windows can vary significantly. The App's predictions and estimates should be used as general guidance only and may not reflect your individual patterns. If you have irregular cycles, known fertility issues, or any health conditions that may affect your menstrual cycle, please work closely with a healthcare professional in addition to using this tracking tool.
+While Feve aims to help you track and understand your menstrual cycle, every woman's body is unique. Cycle lengths, ovulation timing, and fertility windows can vary significantly. The App's predictions and estimates should be used as general guidance only and may not reflect your individual patterns. If you have irregular cycles, known fertility issues, or any health conditions that may affect your menstrual cycle, please work closely with a healthcare professional in addition to using this tracking tool.
 
 ### 10.6 Recipes, Nutrition, and Dietary Content
-FEMIA provides fertility-supporting recipes and nutritional suggestions for educational and informational purposes only. These recipes are not intended to diagnose, treat, cure, or prevent any disease, and are not a substitute for personalized medical or dietary advice from a qualified healthcare professional or registered dietitian. Nutritional needs vary widely between individuals, and dietary choices may interact with medications, medical conditions, fertility treatments, or pregnancy. By using the recipes or nutritional guidance in FEMIA, you acknowledge that you are doing so voluntarily and assume full responsibility for your health decisions. The creator of FEMIA is not responsible for any adverse reactions, side effects, interactions, or outcomes related to the use of the recipes or dietary suggestions.
+Feve provides fertility-supporting recipes and nutritional suggestions for educational and informational purposes only. These recipes are not intended to diagnose, treat, cure, or prevent any disease, and are not a substitute for personalized medical or dietary advice from a qualified healthcare professional or registered dietitian. Nutritional needs vary widely between individuals, and dietary choices may interact with medications, medical conditions, fertility treatments, or pregnancy. By using the recipes or nutritional guidance in Feve, you acknowledge that you are doing so voluntarily and assume full responsibility for your health decisions. The creator of Feve is not responsible for any adverse reactions, side effects, interactions, or outcomes related to the use of the recipes or dietary suggestions.
 
 ### 10.7 Articles and Educational Content
-Articles and written content in FEMIA are provided for educational and informational purposes only and do not constitute medical advice, diagnosis, or treatment. They reflect general knowledge and may not be applicable or accurate for your individual situation. Always consult with a qualified healthcare professional before making any health-related decisions based on articles or other content in FEMIA. The creator of FEMIA is not responsible for any errors, outdated information, or outcomes resulting from the use of articles or educational content within the App.
+Articles and written content in Feve are provided for educational and informational purposes only and do not constitute medical advice, diagnosis, or treatment. They reflect general knowledge and may not be applicable or accurate for your individual situation. Always consult with a qualified healthcare professional before making any health-related decisions based on articles or other content in Feve. The creator of Feve is not responsible for any errors, outdated information, or outcomes resulting from the use of articles or educational content within the App.
 
 ### 10.8 Products and Affiliate Recommendations
-FEMIA may include curated product recommendations and links to third-party products, including through Amazon affiliate links. These products are suggested based on perceived educational value and alignment with fertility-focused wellness, but they are not medically endorsed or guaranteed to support conception or pregnancy. Statements regarding supplements, vitamins, minerals, herbs, or other nutritional products have not been evaluated by the Food and Drug Administration unless explicitly stated. Dietary supplements are not intended to diagnose, treat, cure, or prevent any disease. Some products may interact with medications, medical conditions, pregnancy, or fertility treatments. Some links may be affiliate links, meaning the creator of FEMIA may receive a commission at no additional cost to you. Recommendations are made in good faith, but outcomes vary based on individual health history, compliance, underlying conditions, environmental factors, and many other variables. No specific results are guaranteed. The creator of FEMIA is not responsible for the quality, safety, or outcomes of any third-party products.
+Feve may include curated product recommendations and links to third-party products, including through Amazon affiliate links. These products are suggested based on perceived educational value and alignment with fertility-focused wellness, but they are not medically endorsed or guaranteed to support conception or pregnancy. Statements regarding supplements, vitamins, minerals, herbs, or other nutritional products have not been evaluated by the Food and Drug Administration unless explicitly stated. Dietary supplements are not intended to diagnose, treat, cure, or prevent any disease. Some products may interact with medications, medical conditions, pregnancy, or fertility treatments. Some links may be affiliate links, meaning the creator of Feve may receive a commission at no additional cost to you. Recommendations are made in good faith, but outcomes vary based on individual health history, compliance, underlying conditions, environmental factors, and many other variables. No specific results are guaranteed. The creator of Feve is not responsible for the quality, safety, or outcomes of any third-party products.
 
 ### 10.9 Orthodox Saints' Feasts and Prayers
-FEMIA includes the feast days of certain Orthodox Christian saints who have traditionally been prayed to for intercession regarding fertility, safe childbirth, and family life. The inclusion of these saints reflects a spiritual tradition and practice, not a medical or scientific claim.
+Feve includes the feast days of certain Orthodox Christian saints who have traditionally been prayed to for intercession regarding fertility, safe childbirth, and family life. The inclusion of these saints reflects a spiritual tradition and practice, not a medical or scientific claim.
 
 ### 10.10 Individual Responsibility
-By using FEMIA, you acknowledge that you are using this tool at your own discretion and risk. The creator of FEMIA is not liable for any decisions made based on the information provided by the App, including but not limited to pregnancy outcomes, health decisions, product purchases, or any other consequences resulting from App use.
+By using Feve, you acknowledge that you are using this tool at your own discretion and risk. The creator of Feve is not liable for any decisions made based on the information provided by the App, including but not limited to pregnancy outcomes, health decisions, product purchases, or any other consequences resulting from App use.
 
 ### 10.11 Data Security Responsibility
 Your health data is encrypted and stored locally on your device. However, you are responsible for keeping your device secure and remembering your password. If you lose your password, your data cannot be recovered. We recommend regular data exports as a backup measure.

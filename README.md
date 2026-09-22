@@ -15,7 +15,6 @@ Feve is designed as a personal health tracking tool with the general purpose of 
 The App also includes:
 - **Recipes:** Fertility-supporting recipes and nutritional suggestions
 - **Articles:** Educational content about female health and fertility
-- **Products:** Curated product recommendations and links to third-party products, including through Amazon affiliate links
 - **Orthodox Saints' Feasts and Prayers:** Spiritual content reflecting traditional Orthodox Christian practices for intercession regarding fertility, safe childbirth, and family life
 - **Premium Club Features:** Optional subscription for additional recipes and articles
 
@@ -76,11 +75,6 @@ The App uses the following third-party service:
 - Only standard HTTPS requests are made to fetch content files from GitHub
 - The GitHub repository access tokens are stored encrypted in the app's local data store
 
-### 6.3 Amazon Affiliate Links
-- The App may include links to Amazon products as part of product recommendations
-- These are affiliate links; we may receive a commission at no additional cost to you
-- Amazon may collect data according to its own privacy policy when you click these links
-
 ## 7. Your Rights and Choices
 
 You have the right to:
@@ -92,7 +86,7 @@ You have the right to:
 
 ## 8. Children's Privacy
 
-The App is **not intended for children under 13**. We do not knowingly collect data from children under 13. The App is designed for adult women seeking to support conception, pregnancy, or family planning. If you believe a child has provided us with personal data, please contact us so we can delete the information.
+The App is **not intended for children under 13**. We do not knowingly collect data from children under 13. The App is designed for adult women seeking to support conception and pregnancy. If you believe a child has provided us with personal data, please contact us so we can delete the information.
 
 ## 9. International Users
 

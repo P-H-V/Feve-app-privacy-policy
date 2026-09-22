@@ -1,6 +1,6 @@
 # Privacy Policy for Feve - Female Health Tracking App
 
-**Last updated:** July 21, 2026
+**Last updated:** September 23, 2026
 
 ## 1. Introduction
 
